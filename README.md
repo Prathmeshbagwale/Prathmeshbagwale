@@ -55,7 +55,7 @@ I specialise in turning messy, raw data into clean dashboards and business insig
 | 1 | 🏠 AirBnB Market Analysis Dashboard | Tableau | [View Live →](https://github.com/Prathmeshbagwale/Airbnb-tableau-dashboard) |
 | 2 | 📊 Business Intelligence Report | Power BI | [View Repo →](https://github.com/prathmesh/powerbi-data-project) |
 | 3 | 📗 Excel Data Analysis & Dashboard | Excel | [View Repo →](https://github.com/prathmesh/excel-data-analysis) |
-| 4 | 🌍 SQL EDA — World Layoffs Dataset | SQL | [View Repo →](https://github.com/prathmesh/sql-eda-world-layoffs) |
+| 4 | 🌍 SQL EDA — World Layoffs Dataset | SQL | [View Repo →](https://github.com/Prathmeshbagwale/SQL-EDA-World-Layoffs) |
 | 5 | 🧹 SQL Data Cleaning Pipeline | SQL | [View Repo →](https://github.com/Prathmeshbagwale/SQL-Data-Cleaning-World-Layoffs) |
 
 ---
