@@ -83,7 +83,7 @@ I specialise in turning messy, raw data into clean dashboards and business insig
 ## 📈 GitHub Stats
 
 ![Prathmesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathmesh&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh&layout=compact&theme=default&hide_border=true)
+![Top Languages] English/Hindi/Marathi
 
 ---
 
