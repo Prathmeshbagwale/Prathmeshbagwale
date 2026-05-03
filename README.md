@@ -9,7 +9,7 @@
 
 ## 👨‍💼 About Me
 
-B.Tech graduate (CGPA **8.85**) and aspiring Data Analyst with **2+ years of analytical experience** and hands-on exposure to real-world data operations at **Shriram Finance Limited (NBFC)**.
+B.Tech graduate (CGPA **8.85**) and aspiring Data Analyst with hands-on exposure to real-world data operations at **Shriram Finance Limited (NBFC)**.
 
 I specialise in turning messy, raw data into clean dashboards and business insights that decision-makers can act on — using Power BI, Tableau, SQL, and Python.
 
