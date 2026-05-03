@@ -80,13 +80,6 @@ I specialise in turning messy, raw data into clean dashboards and business insig
 
 ---
 
-## 📈 GitHub Stats
-
-![Prathmesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathmesh&show_icons=true&theme=default&hide_border=true)
-![Top Languages] English/Hindi/Marathi
-
----
-
 > 💡 *"Data is the new oil — I refine it into insights."*
 
 📬 **Let's connect:** [prathmeshbagwale@gmail.com](mailto:prathmeshbagwale@gmail.com)
