@@ -59,4 +59,4 @@ This means I don't just configure SAP — I understand *why* each process step e
 
 ## 📫 Let's Connect
 
-> 💼 Open to **SAP MM Consultant | SAP Functional Trainee | ERP Analyst** roles — Full-time or Internship across India.
+💼 Open to **SAP MM Consultant | SAP Functional Trainee | ERP Analyst** roles — Full-time or Internship across India.
