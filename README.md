@@ -9,8 +9,6 @@
 
 ## 👨‍💼 About Me
 
-# Hey, I'm [Your Name] 👋
-
 🎓 Mechanical Engineer (YCCE Nagpur, 2025 | CGPA: 8.85)
 ⚙️ Transitioning into **SAP MM Functional Consulting**
 🌍 Based in Nagpur, India | Open to roles Pan-India
@@ -61,7 +59,7 @@ This means I don't just configure SAP — I understand *why* each process step e
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/prathmesh-bagwale)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](prathmeshbagwale@gmail.com)
 
 > 💼 Open to **SAP MM Consultant | SAP Functional Trainee | ERP Analyst** roles — Full-time or Internship across India.
