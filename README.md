@@ -1,5 +1,5 @@
 # Hi, I'm Prathmesh Bagwale 👋
-### Data Analytics Analyst | Power BI · Tableau · SQL · Python · Excel
+### B.Tech Mechanical Engineering, CGPA 8.85 | SAP MM · Advanced Excel · Power BI · Tableau · SQL · Python | Open to Work
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-bagwale)
 [![Email](https://img.shields.io/badge/Email-prathmeshbagwale@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshbagwale@gmail.com)
